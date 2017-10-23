@@ -1,0 +1,3 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"POST","/prod//SHOUTCLOUD",10099,0,140,149,75,1236,11,615.30
+"None","Total",10099,0,140,149,75,1236,11,615.30

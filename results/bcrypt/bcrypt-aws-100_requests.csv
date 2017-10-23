@@ -1,0 +1,3 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"POST","/prod//log8430-bcrypt",10099,0,1800,1819,1392,22689,60,54.92
+"None","Total",10099,0,1800,1819,1392,22689,60,54.92

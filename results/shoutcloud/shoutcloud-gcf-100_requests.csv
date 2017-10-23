@@ -1,0 +1,3 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"POST","//shoutcloud",9359,740,120,487,102,30660,11,99.58
+"None","Total",9359,740,120,487,102,30660,11,99.58

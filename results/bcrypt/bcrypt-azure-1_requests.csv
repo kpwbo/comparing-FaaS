@@ -1,0 +1,3 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"POST","/api//CSharpTrigger",100,0,2500,2616,2338,5963,62,0.38
+"None","Total",100,0,2500,2616,2338,5963,62,0.38

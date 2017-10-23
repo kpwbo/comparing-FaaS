@@ -1,0 +1,3 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"POST","/bcrypt/bcrypt",100,0,2400,2373,2032,2817,60,0.42
+"None","Total",100,0,2400,2373,2032,2817,60,0.42

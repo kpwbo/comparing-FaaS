@@ -1,0 +1,9 @@
+{
+  "frameworks": {
+    "net46": {
+      "dependencies": {
+        "BCrypt.Net-Next": "2.1.2"
+      }
+    }
+  }
+}
