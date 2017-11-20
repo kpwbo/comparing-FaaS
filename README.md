@@ -1,2 +1,2 @@
-# comparing-FaaS
-A model for comparing FaaS platforms
+# Comparison of FaaS platforms
+Comparison of FaaS platforms
