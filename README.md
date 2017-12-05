@@ -9,6 +9,8 @@ We tested the performance of three FaaS platforms: AWS Lambda, Azure Functions a
 
 We used [Locust](https://locust.io/) to run the tests and collect the results. Each test spammed a given function deployed on a given platform with a number of requests equal to 100 times a given number of concurrent requests.
 
+The research available is available in ```./research_paper.pdf``` (in French).
+
 ## Directory Structure
 
 ### `src`
